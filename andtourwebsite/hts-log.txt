@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Jul 2022 11:50:19 at https://andit.co/projects/html/and-tour/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://andit.co/projects/html/and-tour/index.html -O1 "E:\hawkscodework\andtourwebsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:53:03	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/faq.html (from https://andit.co/projects/html/and-tour/index.html)
+11:53:04	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/assets/css/owl.video.play.html (from https://andit.co/projects/html/and-tour/assets/css/owl.carousel.min.css)
+11:53:09	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/! (from https://andit.co/projects/html/and-tour/news-details.html)
+11:53:09	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/assets/css/ajax-loader.gif (from https://andit.co/projects/html/and-tour/assets/css/slick-theme.css)
+11:53:09	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/assets/css/fonts/slick.eot (from https://andit.co/projects/html/and-tour/assets/css/slick-theme.css)
+11:53:09	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/assets/css/fonts/slick.eot? (from https://andit.co/projects/html/and-tour/assets/css/slick-theme.css)
+11:53:09	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/assets/css/fonts/slick.woff (from https://andit.co/projects/html/and-tour/assets/css/slick-theme.css)
+11:53:09	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/assets/css/fonts/slick.ttf (from https://andit.co/projects/html/and-tour/assets/css/slick-theme.css)
+11:53:09	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/assets/css/fonts/slick.svg (from https://andit.co/projects/html/and-tour/assets/css/slick-theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 50 seconds : 254 links scanned, 243 files written (17826153 bytes overall) [14387635 bytes received at 84633 bytes/sec], 5462379 bytes transferred using HTTP compression in 82 files, ratio 19%, 8.1 requests per connection
+(9 errors, 0 warnings, 0 messages)
